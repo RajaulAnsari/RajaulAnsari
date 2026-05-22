@@ -1,14 +1,36 @@
 <h1 align="center">Hi 👋, I'm MD. Rajaul Ansari</h1>
-<h3 align="center">A BSC. (Hons) Computing Student</h3>
-<img width= "1000px" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<h3 align="center">BSc. (Hons) Computing Graduate 🎓 | Full Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-rajaul-ansari-0382ab1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rajaul-ansari-0382ab1b2/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rajaul.ansari1432/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajaul.ansari1432/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/razaul_____ansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/my_beb0/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="100%" alt="coding gif" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <a href="https://arajaul.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-arajaul.com.np-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## 🚀 About Me
+
+- 💻 Passionate Full Stack Developer  
+- 🎨 UI/UX & Creative Design Enthusiast  
+- 🌱 Exploring Modern Web Technologies  
+- ⚡ Building scalable and user-friendly applications  
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,firebase,figma,anaconda,androidstudio,aws,cloudflare,cs,js,linux,mongodb,react,tailwindcss,vite,express,nodejs,npm,postman" />
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Coffee Time"</i>
+</p>
